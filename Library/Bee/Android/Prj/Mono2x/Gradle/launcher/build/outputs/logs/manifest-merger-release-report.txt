@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-81:12
+	package
+		INJECTED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:111-157
+	android:versionCode
+		INJECTED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:52-110
+	android:installLocation
+		ADDED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:11-51
+application
+ADDED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+INJECTED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+MERGED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:22:5-79:19
+MERGED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:22:5-79:19
+	android:extractNativeLibs
+		INJECTED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		REJECTED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:24:9-41
+	android:label
+		ADDED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:48-80
+	android:icon
+		ADDED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:16-47
+	android:enableOnBackInvokedCallback
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:23:9-52
+supports-screens
+ADDED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+uses-sdk
+INJECTED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:6:5-44
+MERGED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:6:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:9:5-11:36
+	android:required
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:9-55
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:13:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:16:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:19:9-72
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:25:9-27:33
+	android:value
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:27:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:26:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:28:9-30:36
+	android:value
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:30:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:29:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:31:9-33:36
+	android:value
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:33:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:32:13-51
+meta-data#unity.render-outside-safearea
+ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:34:9-36:36
+	android:value
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:36:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:35:13-57
+meta-data#notch.config
+ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:37:9-39:50
+	android:value
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:39:13-47
+	android:name
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:38:13-40
+meta-data#unity.auto-report-fully-drawn
+ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:40:9-42:36
+	android:value
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:42:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:41:13-57
+meta-data#unity.auto-set-game-state
+ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:43:9-45:36
+	android:value
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:45:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:44:13-53
+meta-data#unity.strip-engine-code
+ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:46:9-48:37
+	android:value
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:48:13-34
+	android:name
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:47:13-51
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:50:9-78:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:58:13-49
+	android:enabled
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:53:13-35
+	android:launchMode
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:56:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:55:13-48
+	android:exported
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:54:13-36
+	android:resizeableActivity
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:57:13-46
+	android:configChanges
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:52:13-194
+	android:theme
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:59:13-54
+	android:name
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:51:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:60:13-64:29
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:61:17-77
+	android:name
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:61:27-74
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:63:17-69
+	android:name
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:63:25-66
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:66:13-68:40
+	android:value
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:68:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:67:17-57
+meta-data#WindowManagerPreference:FreeformWindowSize
+ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:69:13-71:71
+	android:value
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:71:17-68
+	android:name
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:70:17-74
+meta-data#WindowManagerPreference:FreeformWindowOrientation
+ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:72:13-74:79
+	android:value
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:74:17-76
+	android:name
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:73:17-81
+meta-data#notch_support
+ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:75:13-77:40
+	android:value
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:77:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:76:17-45

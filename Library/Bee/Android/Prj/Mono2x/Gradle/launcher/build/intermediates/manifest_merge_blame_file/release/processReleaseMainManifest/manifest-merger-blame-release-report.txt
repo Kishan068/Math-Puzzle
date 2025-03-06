@@ -1,0 +1,169 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DefaultCompany.MathPuzzle"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="23"
+10        android:targetSdkVersion="35" />
+11
+12    <supports-screens
+12-->C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+13        android:anyDensity="true"
+13-->C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+14        android:largeScreens="true"
+14-->C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+15        android:normalScreens="true"
+15-->C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+16        android:smallScreens="true"
+16-->C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+17        android:xlargeScreens="true" />
+17-->C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+18
+19    <uses-feature android:glEsVersion="0x00030000" />
+19-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:5-54
+19-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:19-51
+20    <uses-feature
+20-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:9:5-11:36
+21        android:name="android.hardware.vulkan.version"
+21-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:9-55
+22        android:required="false" />
+22-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:9-33
+23    <uses-feature
+23-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:12:5-14:36
+24        android:name="android.hardware.touchscreen"
+24-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:13:9-52
+25        android:required="false" />
+25-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:14:9-33
+26    <uses-feature
+26-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:15:5-17:36
+27        android:name="android.hardware.touchscreen.multitouch"
+27-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:16:9-63
+28        android:required="false" />
+28-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:17:9-33
+29    <uses-feature
+29-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:18:5-20:36
+30        android:name="android.hardware.touchscreen.multitouch.distinct"
+30-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:19:9-72
+31        android:required="false" />
+31-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:20:9-33
+32
+33    <application
+33-->C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+34        android:enableOnBackInvokedCallback="false"
+34-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:23:9-52
+35        android:extractNativeLibs="true"
+36        android:icon="@mipmap/app_icon"
+36-->C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:16-47
+37        android:label="@string/app_name" >
+37-->C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:48-80
+38        <meta-data
+38-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:25:9-27:33
+39            android:name="unity.splash-mode"
+39-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:26:13-45
+40            android:value="0" />
+40-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:27:13-30
+41        <meta-data
+41-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:28:9-30:36
+42            android:name="unity.splash-enable"
+42-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:29:13-47
+43            android:value="True" />
+43-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:30:13-33
+44        <meta-data
+44-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:31:9-33:36
+45            android:name="unity.launch-fullscreen"
+45-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:32:13-51
+46            android:value="True" />
+46-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:33:13-33
+47        <meta-data
+47-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:34:9-36:36
+48            android:name="unity.render-outside-safearea"
+48-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:35:13-57
+49            android:value="True" />
+49-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:36:13-33
+50        <meta-data
+50-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:37:9-39:50
+51            android:name="notch.config"
+51-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:38:13-40
+52            android:value="portrait|landscape" />
+52-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:39:13-47
+53        <meta-data
+53-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:40:9-42:36
+54            android:name="unity.auto-report-fully-drawn"
+54-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:41:13-57
+55            android:value="true" />
+55-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:42:13-33
+56        <meta-data
+56-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:43:9-45:36
+57            android:name="unity.auto-set-game-state"
+57-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:44:13-53
+58            android:value="true" />
+58-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:45:13-33
+59        <meta-data
+59-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:46:9-48:37
+60            android:name="unity.strip-engine-code"
+60-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:47:13-51
+61            android:value="false" />
+61-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:48:13-34
+62
+63        <activity
+63-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:50:9-78:20
+64            android:name="com.unity3d.player.UnityPlayerActivity"
+64-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:51:13-66
+65            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+65-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:52:13-194
+66            android:enabled="true"
+66-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:53:13-35
+67            android:exported="true"
+67-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:54:13-36
+68            android:hardwareAccelerated="false"
+68-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:55:13-48
+69            android:launchMode="singleTask"
+69-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:56:13-44
+70            android:resizeableActivity="true"
+70-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:57:13-46
+71            android:screenOrientation="fullUser"
+71-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:58:13-49
+72            android:theme="@style/UnityThemeSelector" >
+72-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:59:13-54
+73            <intent-filter>
+73-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:60:13-64:29
+74                <category android:name="android.intent.category.LAUNCHER" />
+74-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:61:17-77
+74-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:61:27-74
+75
+76                <action android:name="android.intent.action.MAIN" />
+76-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:63:17-69
+76-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:63:25-66
+77            </intent-filter>
+78
+79            <meta-data
+79-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:66:13-68:40
+80                android:name="unityplayer.UnityActivity"
+80-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:67:17-57
+81                android:value="true" />
+81-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:68:17-37
+82            <meta-data
+82-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:69:13-71:71
+83                android:name="WindowManagerPreference:FreeformWindowSize"
+83-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:70:17-74
+84                android:value="@string/FreeformWindowSize_maximize" />
+84-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:71:17-68
+85            <meta-data
+85-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:72:13-74:79
+86                android:name="WindowManagerPreference:FreeformWindowOrientation"
+86-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:73:17-81
+87                android:value="@string/FreeformWindowOrientation_landscape" />
+87-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:74:17-76
+88            <meta-data
+88-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:75:13-77:40
+89                android:name="notch_support"
+89-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:76:17-45
+90                android:value="true" />
+90-->[:unityLibrary] C:\Kishan\Math Puzzle - Scene\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:77:17-37
+91        </activity>
+92    </application>
+93
+94</manifest>

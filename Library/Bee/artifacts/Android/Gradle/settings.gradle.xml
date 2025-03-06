@@ -1,0 +1,21 @@
+<root name="" element-id="242" assign-type="None" type="Unity.Android.Gradle.GradleSettingsFile" base-type="Unity.Android.Gradle.BaseBlock" is-default="false" dependencies="">
+  <element name="" element-id="243" assign-type="None" type="Unity.Android.Gradle.IncludeList" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="244">
+    <element name="" element-id="253" assign-type="None" raw-value="include ':launcher'" type="Unity.Android.Gradle.Element" base-type="Unity.Android.Gradle.Element" is-default="false" dependencies="" />
+    <element name="" element-id="254" assign-type="None" raw-value="include ':unityLibrary'" type="Unity.Android.Gradle.Element" base-type="Unity.Android.Gradle.Element" is-default="false" dependencies="" />
+  </element>
+  <element name="pluginManagement" element-id="244" assign-type="None" type="Unity.Android.Gradle.PluginManagement" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="">
+    <element name="repositories" element-id="245" assign-type="None" type="Unity.Android.Gradle.Repositories" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="">
+      <element name="" element-id="250" assign-type="None" raw-value="gradlePluginPortal()" type="Unity.Android.Gradle.Element" base-type="Unity.Android.Gradle.Element" is-default="false" dependencies="" />
+      <element name="" element-id="251" assign-type="None" raw-value="google()" type="Unity.Android.Gradle.Element" base-type="Unity.Android.Gradle.Element" is-default="false" dependencies="" />
+      <element name="" element-id="252" assign-type="None" raw-value="mavenCentral()" type="Unity.Android.Gradle.Element" base-type="Unity.Android.Gradle.Element" is-default="false" dependencies="" />
+    </element>
+  </element>
+  <element name="dependencyResolutionManagement" element-id="247" assign-type="None" type="Unity.Android.Gradle.DependencyResolutionManagement" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="243">
+    <element name="repositories" element-id="248" assign-type="None" type="Unity.Android.Gradle.Repositories" base-type="Unity.Android.Gradle.BaseBlock" is-default="true" dependencies="249">
+      <element name="" element-id="255" assign-type="None" raw-value="google()" type="Unity.Android.Gradle.Element" base-type="Unity.Android.Gradle.Element" is-default="false" dependencies="" />
+      <element name="" element-id="256" assign-type="None" raw-value="mavenCentral()" type="Unity.Android.Gradle.Element" base-type="Unity.Android.Gradle.Element" is-default="false" dependencies="" />
+      <element name="flatDir" element-id="257" assign-type="None" raw-value="dirs &quot;${project(':unityLibrary').projectDir}/libs&quot;" type="Unity.Android.Gradle.Block" base-type="Unity.Android.Gradle.BaseBlock" is-default="false" dependencies="" />
+    </element>
+    <element name="repositoriesMode" element-id="249" assign-type="SetFunction" property-value="PreferSettings" type="Unity.Android.Gradle.PropertyEnum`1" base-type="BaseProperty" is-default="true" dependencies="" />
+  </element>
+</root>
